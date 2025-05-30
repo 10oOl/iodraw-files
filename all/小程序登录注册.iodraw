@@ -70,7 +70,7 @@
         <mxCell id="nHYRWaQTyzZ-LHALs-kw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nHYRWaQTyzZ-LHALs-kw-21" target="nHYRWaQTyzZ-LHALs-kw-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9KTJOcoYLRUuYZG_m86m-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHYRWaQTyzZ-LHALs-kw-29">
+        <mxCell id="9KTJOcoYLRUuYZG_m86m-1" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHYRWaQTyzZ-LHALs-kw-29">
           <mxGeometry x="-0.5727" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
         <mxCell id="nHYRWaQTyzZ-LHALs-kw-21" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="353" width="105" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="nHYRWaQTyzZ-LHALs-kw-28" value="首页界面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nHYRWaQTyzZ-LHALs-kw-28" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323" y="484" width="96" height="41" as="geometry" />
         </mxCell>
       </root>
