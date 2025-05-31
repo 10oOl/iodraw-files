@@ -52,7 +52,7 @@
         <mxCell id="_ccg5VXRvyAAM1anIJn_-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" parent="1" source="_ccg5VXRvyAAM1anIJn_-106" target="_ccg5VXRvyAAM1anIJn_-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ccg5VXRvyAAM1anIJn_-106" value="Web端管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="_ccg5VXRvyAAM1anIJn_-106" value="Web后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="680" y="-20" width="142" height="47" as="geometry" />
         </mxCell>
         <mxCell id="_ccg5VXRvyAAM1anIJn_-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" parent="1" source="_ccg5VXRvyAAM1anIJn_-114" target="_ccg5VXRvyAAM1anIJn_-154" edge="1">
