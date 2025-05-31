@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-44" value="数据记录表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-614" y="838" width="120" height="60" as="geometry" />
+          <mxGeometry x="-614" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-46">
           <mxGeometry relative="1" as="geometry">
@@ -218,11 +218,11 @@
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-63" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-55">
           <mxGeometry x="0.0411" y="1" relative="1" as="geometry">
-            <mxPoint x="-2" y="81" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-52" value="预警阈值表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-734" y="644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-734" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-54" target="CLYZcGl0A7sJei_hjuTo-4">
           <mxGeometry relative="1" as="geometry" />
