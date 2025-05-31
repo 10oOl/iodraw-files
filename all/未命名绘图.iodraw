@@ -23,7 +23,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-3" target="CLYZcGl0A7sJei_hjuTo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-17">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-17">
           <mxGeometry x="0.2653" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -73,7 +73,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-18" target="CLYZcGl0A7sJei_hjuTo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-21">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-21">
           <mxGeometry x="-0.0779" y="4" relative="1" as="geometry">
             <mxPoint x="4" y="4" as="offset" />
           </mxGeometry>
