@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-28" value="发现" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2.5" y="741" width="60" height="60" as="geometry" />
+          <mxGeometry x="5" y="731" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-30" target="CLYZcGl0A7sJei_hjuTo-32">
           <mxGeometry relative="1" as="geometry" />
