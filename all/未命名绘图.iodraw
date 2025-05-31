@@ -32,8 +32,14 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-116" y="634" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-10" target="CLYZcGl0A7sJei_hjuTo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-10" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-495" y="634" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="644" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
