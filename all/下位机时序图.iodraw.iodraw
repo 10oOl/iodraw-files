@@ -104,6 +104,11 @@
             <mxPoint x="95" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uuQu3W8ANHL8IoPY6pcE-11" value="发布数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-9">
+          <mxGeometry x="-0.2641" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-4" edge="1">
           <mxGeometry x="1" y="101" relative="1" as="geometry">
             <mxPoint x="423" y="342" as="sourcePoint" />
