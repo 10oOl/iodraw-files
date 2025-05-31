@@ -160,8 +160,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="139" y="702" width="446" height="241" as="geometry" />
+        <mxCell id="7HER8kDWrDFTNuOBMra1-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="649" y="730" width="502" height="241" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
