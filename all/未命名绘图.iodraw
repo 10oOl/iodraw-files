@@ -132,8 +132,8 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-42" value="上传" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-576" y="714" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-44" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-596" y="884" width="120" height="60" as="geometry" />
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-44" value="数据记录表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-596" y="822" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
