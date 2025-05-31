@@ -85,18 +85,6 @@
         <mxCell id="7baba1c4bc27f4b0-8" value="多种传感器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="101" y="83" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-8" edge="1">
-          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="287" y="155.00000000000023" as="sourcePoint" />
-            <mxPoint x="155" y="155" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uuQu3W8ANHL8IoPY6pcE-3" value="定时发送采集数据请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-1" vertex="1" connectable="0">
-          <mxGeometry x="0.4066" y="-1" relative="1" as="geometry">
-            <mxPoint x="29" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="255" as="sourcePoint" />
@@ -131,11 +119,6 @@
             </Array>
             <mxPoint x="161" y="175" as="sourcePoint" />
             <mxPoint x="267" y="250" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uuQu3W8ANHL8IoPY6pcE-6" value="返回采集数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uuQu3W8ANHL8IoPY6pcE-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.4662" y="2" relative="1" as="geometry">
-            <mxPoint x="27" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-18" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
