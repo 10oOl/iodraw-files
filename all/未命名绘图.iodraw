@@ -122,7 +122,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-30" target="CLYZcGl0A7sJei_hjuTo-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-33">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-71" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-33">
           <mxGeometry x="0.0065" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -132,6 +132,11 @@
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-32" target="CLYZcGl0A7sJei_hjuTo-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-72" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-34">
+          <mxGeometry x="0.8015" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-32" value="上报" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-147" y="838" width="60" height="60" as="geometry" />
