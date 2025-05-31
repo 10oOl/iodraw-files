@@ -323,7 +323,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-94" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-423" y="474" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-102" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-102" value="修改" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-524" y="571" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
