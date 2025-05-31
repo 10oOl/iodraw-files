@@ -168,7 +168,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-52" value="预警阈值表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-724" y="513" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-54" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-54" value="发送预警通知" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-704" y="389" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
