@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="uuQu3W8ANHL8IoPY6pcE-3" value="定时发送采集数据请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-1">
           <mxGeometry x="0.4066" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-9" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.465;exitY=0.362;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-5" edge="1">
@@ -146,6 +146,17 @@
               <mxPoint x="-88.38" y="349.9" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uuQu3W8ANHL8IoPY6pcE-5" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-268" relative="1" as="geometry">
+            <mxPoint x="338" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="313" y="180" />
+              <mxPoint x="283" y="180" />
+            </Array>
+            <mxPoint x="208" y="180" as="sourcePoint" />
+            <mxPoint x="267" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
