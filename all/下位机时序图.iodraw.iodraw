@@ -170,18 +170,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-46" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
-          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="149" y="555" as="sourcePoint" />
-            <mxPoint x="290" y="555" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-48" value="要求重新执行任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-46" vertex="1" connectable="0">
-          <mxGeometry x="-0.2766" relative="1" as="geometry">
-            <mxPoint x="15" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-51" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="571" as="sourcePoint" />
@@ -189,18 +177,6 @@
               <mxPoint x="286" y="571" />
             </Array>
             <mxPoint x="590" y="571" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-53" value="通知巡护员重做任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-51" vertex="1" connectable="0">
-          <mxGeometry x="0.1732" relative="1" as="geometry">
-            <mxPoint x="48" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-54" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
-          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="153" y="619" as="sourcePoint" />
-            <mxPoint x="294" y="619" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
