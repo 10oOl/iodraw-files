@@ -259,7 +259,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-57" value="存储管理员评语评分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-56">
+        <mxCell id="7HER8kDWrDFTNuOBMra1-57" value="存储管理员评分与评语" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-56">
           <mxGeometry x="-0.2766" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
