@@ -137,16 +137,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sa9Z3zlprtdAU_uvUqn_-4" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="971" y="78" width="100" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="sa9Z3zlprtdAU_uvUqn_-6" value="[超限]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="712" y="274" width="49" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sa9Z3zlprtdAU_uvUqn_-9" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-9" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="sa9Z3zlprtdAU_uvUqn_-3">
           <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="777" y="368" as="sourcePoint" />
-            <mxPoint x="914" y="368.0000000000002" as="targetPoint" />
+            <mxPoint x="-79" y="280" as="sourcePoint" />
+            <mxPoint x="58" y="280.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -154,6 +148,12 @@
           <mxGeometry x="-0.0219" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-4" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="971" y="78" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-6" value="[超限]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="712" y="274" width="49" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
