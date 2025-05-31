@@ -54,8 +54,14 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-12" value="监测设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-596" y="644" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-16" target="CLYZcGl0A7sJei_hjuTo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-16" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-295" y="533" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-18" value="任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="457" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
