@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="-81" />
-              <mxPoint x="-113" y="-81" />
+              <mxPoint x="-26" y="-81" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,7 +129,7 @@
           <mxGeometry x="-46" y="93.78" width="39" height="166.69" as="geometry" />
         </mxCell>
         <mxCell id="SqQ4Qe3lQOhHJiiWDoHq-18" value="4&lt;div&gt;G&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="17" y="96.25" width="41" height="161.75" as="geometry" />
+          <mxGeometry x="12" y="96.25" width="41" height="161.75" as="geometry" />
         </mxCell>
         <mxCell id="SqQ4Qe3lQOhHJiiWDoHq-19" value="环&lt;div&gt;境&lt;/div&gt;&lt;div&gt;参&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-155" y="95.75" width="38" height="162.75" as="geometry" />
