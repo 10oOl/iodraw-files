@@ -127,6 +127,22 @@
         <mxCell id="sa9Z3zlprtdAU_uvUqn_-4" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="963" y="77" width="100" height="580" as="geometry" />
         </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-7" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
+            <mxPoint x="751" y="324" as="sourcePoint" />
+            <mxPoint x="755.6199999999999" y="361.91999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805.6199999999999" y="323.9" />
+              <mxPoint x="805.6199999999999" y="361.9" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-8" value="解析并对比预警配置表中的阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sa9Z3zlprtdAU_uvUqn_-7">
+          <mxGeometry x="0.0191" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
