@@ -64,13 +64,16 @@
         <mxCell id="7baba1c4bc27f4b0-5" value="后端服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="114" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="uuQu3W8ANHL8IoPY6pcE-13" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-5">
+        <mxCell id="uuQu3W8ANHL8IoPY6pcE-13" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-5" source="7baba1c4bc27f4b0-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="63.5" y="244" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-75" y="244" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="229" y="244" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uuQu3W8ANHL8IoPY6pcE-14" value="写入数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uuQu3W8ANHL8IoPY6pcE-13">
+          <mxGeometry x="-0.1014" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
