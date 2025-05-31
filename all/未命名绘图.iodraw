@@ -20,6 +20,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-3" target="CLYZcGl0A7sJei_hjuTo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-315" y="644" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,7 +55,7 @@
           <mxGeometry x="-596" y="644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-319" y="634" width="80" height="80" as="geometry" />
+          <mxGeometry x="-295" y="512" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
