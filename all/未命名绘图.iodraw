@@ -169,10 +169,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-44" value="数据记录表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-606" y="826" width="120" height="60" as="geometry" />
+          <mxGeometry x="-614" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-46" target="CLYZcGl0A7sJei_hjuTo-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-279" y="865" />
+              <mxPoint x="-279" y="704" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-68" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-48">
           <mxGeometry x="0.8033" y="-1" relative="1" as="geometry">
@@ -194,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-46" value="展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-437" y="826" width="60" height="60" as="geometry" />
+          <mxGeometry x="-433" y="835" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-50" target="CLYZcGl0A7sJei_hjuTo-52">
           <mxGeometry relative="1" as="geometry" />
