@@ -139,12 +139,24 @@
         </mxCell>
         <mxCell id="sa9Z3zlprtdAU_uvUqn_-9" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="sa9Z3zlprtdAU_uvUqn_-3">
           <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="-79" y="280" as="sourcePoint" />
+            <mxPoint x="-84" y="280" as="sourcePoint" />
             <mxPoint x="58" y="280.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sa9Z3zlprtdAU_uvUqn_-10" value="MQTT上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sa9Z3zlprtdAU_uvUqn_-9">
+          <mxGeometry x="-0.0219" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-11" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="sa9Z3zlprtdAU_uvUqn_-3" target="sa9Z3zlprtdAU_uvUqn_-4">
+          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
+            <mxPoint x="-83" y="307" as="sourcePoint" />
+            <mxPoint x="54" y="307.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-12" value="MQTT上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sa9Z3zlprtdAU_uvUqn_-11">
           <mxGeometry x="-0.0219" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
