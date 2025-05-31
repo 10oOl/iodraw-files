@@ -131,6 +131,12 @@
             <mxPoint x="267" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-3" value="下位机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="957" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-4" value="下位机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="121" width="100" height="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
