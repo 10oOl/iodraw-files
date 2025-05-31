@@ -33,8 +33,10 @@
         <mxCell id="7baba1c4bc27f4b0-4" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7baba1c4bc27f4b0-5" target="7HER8kDWrDFTNuOBMra1-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7HER8kDWrDFTNuOBMra1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7baba1c4bc27f4b0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="737" y="952" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="巡护员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="114" height="580" as="geometry" />
@@ -170,21 +172,6 @@
         </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="882" y="637" width="502" height="241" as="geometry" />
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-32" value="巡护员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="740" width="114" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-33" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="7HER8kDWrDFTNuOBMra1-32">
-          <mxGeometry x="1" y="101" relative="1" as="geometry">
-            <mxPoint x="44" y="231" as="sourcePoint" />
-            <mxPoint x="-91" y="231" as="targetPoint" />
-            <mxPoint x="95" y="67" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-34" value="上传与反馈作业进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-33">
-          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
