@@ -159,6 +159,11 @@
             <mxPoint x="267" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uuQu3W8ANHL8IoPY6pcE-6" value="返回采集数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uuQu3W8ANHL8IoPY6pcE-5">
+          <mxGeometry x="-0.4662" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
