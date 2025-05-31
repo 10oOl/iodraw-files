@@ -181,7 +181,7 @@
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-68" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-48">
           <mxGeometry x="0.8033" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-46" target="CLYZcGl0A7sJei_hjuTo-4">
@@ -234,7 +234,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-54" target="CLYZcGl0A7sJei_hjuTo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-344" y="429" />
+              <mxPoint x="-344" y="409" />
               <mxPoint x="-344" y="659" />
             </Array>
           </mxGeometry>
