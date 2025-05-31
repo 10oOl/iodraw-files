@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1282" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,11 +35,6 @@
             <mxPoint x="95" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-13" value="上传与反馈作业进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-12" vertex="1" connectable="0">
-          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="7baba1c4bc27f4b0-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="737" y="952" as="targetPoint" />
@@ -63,37 +58,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-19" value="通知管理员审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
-            <mxPoint x="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-35" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-8" edge="1">
-          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
-            <mxPoint x="52.000000000000114" y="344" as="sourcePoint" />
-            <mxPoint x="56.620000000000005" y="381.91999999999996" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="106.62" y="343.9" />
-              <mxPoint x="106.62" y="381.9" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-20" value="审核任务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7baba1c4bc27f4b0-35" vertex="1" connectable="0">
-          <mxGeometry x="0.0191" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-20" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-5" edge="1">
           <mxGeometry x="1" y="101" relative="1" as="geometry">
             <mxPoint x="725" y="230" as="sourcePoint" />
             <mxPoint x="595" y="230" as="targetPoint" />
             <mxPoint x="95" y="67" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-7" value="登录小程序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7baba1c4bc27f4b0-20" vertex="1" connectable="0">
-          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
@@ -105,11 +74,6 @@
             </Array>
             <mxPoint x="595" y="260" as="sourcePoint" />
             <mxPoint x="267" y="250" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-8" value="显示待办任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7baba1c4bc27f4b0-21" vertex="1" connectable="0">
-          <mxGeometry x="-0.1077" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-3" edge="1">
@@ -137,11 +101,6 @@
             <mxPoint x="95" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-10" value="前往指定地点作业" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-9" vertex="1" connectable="0">
-          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-4" edge="1">
           <mxGeometry x="1" y="101" relative="1" as="geometry">
             <mxPoint x="423" y="342" as="sourcePoint" />
@@ -149,20 +108,10 @@
             <mxPoint x="95" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-15" value="提交任务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-14" vertex="1" connectable="0">
-          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
-            <mxPoint x="28" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="369.5" as="sourcePoint" />
             <mxPoint x="451" y="369.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-17" value="更新任务状态为已反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HER8kDWrDFTNuOBMra1-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.0405" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-51" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
@@ -185,13 +134,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-4" value="指派给巡护员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7baba1c4bc27f4b0-17" vertex="1" connectable="0">
-          <mxGeometry x="0.3203" y="-4" relative="1" as="geometry">
-            <mxPoint x="22" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uuQu3W8ANHL8IoPY6pcE-1" value="巡护员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="849" y="80" width="114" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-35" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
+            <mxPoint x="-142.9999999999999" y="312" as="sourcePoint" />
+            <mxPoint x="-138.38" y="349.91999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-88.38" y="311.9" />
+              <mxPoint x="-88.38" y="349.9" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
