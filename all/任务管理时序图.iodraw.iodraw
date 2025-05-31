@@ -194,8 +194,8 @@
             <mxPoint x="442" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="83" y="481" width="120" height="60" as="geometry" />
+        <mxCell id="7HER8kDWrDFTNuOBMra1-40" value="若未通过" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118" y="514" width="85" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
