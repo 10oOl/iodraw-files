@@ -107,8 +107,11 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-30" value="异常事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-25" y="838" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-32" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-147" y="831" width="80" height="80" as="geometry" />
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-32" target="CLYZcGl0A7sJei_hjuTo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-32" value="上报" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="828" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
