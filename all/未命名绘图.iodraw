@@ -126,8 +126,8 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-32" value="上报" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-147" y="828" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-37" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-576" y="494" width="80" height="80" as="geometry" />
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-37" value="上传" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-576" y="537" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
