@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rCSxYIvLl03h2yAnhLt9">
-    <mxGraphModel dx="1842" dy="173" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,8 +162,14 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-50" value="比较" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-704" y="634" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-52" target="CLYZcGl0A7sJei_hjuTo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-52" value="预警阈值表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-724" y="484" width="120" height="60" as="geometry" />
+          <mxGeometry x="-724" y="513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-54" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-704" y="389" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
