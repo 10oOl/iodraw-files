@@ -56,7 +56,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-10" target="CLYZcGl0A7sJei_hjuTo-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-15" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-13">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-15" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-13">
           <mxGeometry x="-0.525" y="2" relative="1" as="geometry">
             <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
@@ -81,7 +81,7 @@
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-58" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-43">
           <mxGeometry x="-0.4348" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-12" value="监测设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
