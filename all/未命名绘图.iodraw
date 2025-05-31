@@ -101,7 +101,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-28" value="发现" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5" y="738" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-30" value="异常事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-25" y="838" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
