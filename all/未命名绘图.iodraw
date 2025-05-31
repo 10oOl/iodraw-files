@@ -132,6 +132,11 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-37" value="上传" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-576" y="537" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-446" y="489.1999969482422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-39" value="环境数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-596" y="449" width="120" height="60" as="geometry" />
         </mxCell>
