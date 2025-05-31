@@ -156,8 +156,14 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-46" value="展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-444" y="818" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-50" target="CLYZcGl0A7sJei_hjuTo-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-50" value="比较" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-706" y="492" width="80" height="80" as="geometry" />
+          <mxGeometry x="-704" y="634" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-52" value="预警阈值表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="484" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
