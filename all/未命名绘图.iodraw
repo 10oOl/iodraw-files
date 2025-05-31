@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-18" value="巡护任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-315" y="439" width="120" height="60" as="geometry" />
+          <mxGeometry x="-319" y="434" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-20" target="CLYZcGl0A7sJei_hjuTo-4">
           <mxGeometry relative="1" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-20" value="派发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="429" width="60" height="60" as="geometry" />
+          <mxGeometry x="2.5" y="434" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-28" target="CLYZcGl0A7sJei_hjuTo-30">
           <mxGeometry relative="1" as="geometry" />
