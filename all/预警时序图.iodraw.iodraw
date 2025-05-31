@@ -167,10 +167,10 @@
         <mxCell id="sa9Z3zlprtdAU_uvUqn_-6" value="[超限]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="712" y="274" width="49" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="sa9Z3zlprtdAU_uvUqn_-13" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="sa9Z3zlprtdAU_uvUqn_-13" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;dashed=1;" edge="1" parent="1">
           <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="928" y="488" as="sourcePoint" />
-            <mxPoint x="1065" y="488.0000000000002" as="targetPoint" />
+            <mxPoint x="882" y="473" as="sourcePoint" />
+            <mxPoint x="1019" y="473.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
