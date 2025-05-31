@@ -66,7 +66,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-18" value="任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-315" y="449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-20" value="下发和接收" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-95" y="439" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
