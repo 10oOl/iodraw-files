@@ -58,6 +58,17 @@
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-35" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-8" edge="1">
+          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
+            <mxPoint x="52.000000000000114" y="344" as="sourcePoint" />
+            <mxPoint x="56.620000000000005" y="381.91999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="106.62" y="343.9" />
+              <mxPoint x="106.62" y="381.9" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-20" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-5" edge="1">
           <mxGeometry x="1" y="101" relative="1" as="geometry">
             <mxPoint x="725" y="230" as="sourcePoint" />
@@ -94,17 +105,6 @@
         </mxCell>
         <mxCell id="7HER8kDWrDFTNuOBMra1-3" value="存储任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7baba1c4bc27f4b0-14">
           <mxGeometry x="-0.0405" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-35" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
-            <mxPoint x="604.0000000000001" y="428" as="sourcePoint" />
-            <mxPoint x="608.62" y="465.91999999999996" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="658.62" y="427.9" />
-              <mxPoint x="658.62" y="465.9" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
