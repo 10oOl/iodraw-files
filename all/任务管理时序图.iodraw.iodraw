@@ -123,7 +123,7 @@
             <mxPoint x="95" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-10" value="登录小程序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-9">
+        <mxCell id="7HER8kDWrDFTNuOBMra1-10" value="前往指定地点作业" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-9">
           <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
