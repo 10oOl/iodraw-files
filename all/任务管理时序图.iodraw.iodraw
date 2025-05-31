@@ -57,7 +57,7 @@
             <mxPoint x="267" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7baba1c4bc27f4b0-21">
+        <mxCell id="7HER8kDWrDFTNuOBMra1-8" value="显示待办任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7baba1c4bc27f4b0-21">
           <mxGeometry x="-0.1077" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
