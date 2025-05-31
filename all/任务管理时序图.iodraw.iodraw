@@ -7,18 +7,6 @@
         <mxCell id="7baba1c4bc27f4b0-2" value="后端API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-2">
-          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="-111" y="90" as="sourcePoint" />
-            <mxPoint x="21" y="90.00000000000023" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-2" value="创建任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-1">
-          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
-            <mxPoint x="8" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="SQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="100" height="580" as="geometry" />
         </mxCell>
@@ -91,6 +79,18 @@
               <mxPoint x="650" y="501" />
               <mxPoint x="650" y="539" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HER8kDWrDFTNuOBMra1-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
+            <mxPoint x="155" y="155" as="sourcePoint" />
+            <mxPoint x="287" y="155.00000000000023" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HER8kDWrDFTNuOBMra1-2" value="创建任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-1">
+          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
