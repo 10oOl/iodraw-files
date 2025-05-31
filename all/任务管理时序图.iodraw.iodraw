@@ -81,10 +81,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-1" value="创建任务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="7HER8kDWrDFTNuOBMra1-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="-0.4" y="24" relative="1" as="geometry">
-            <mxPoint x="175" y="177" as="sourcePoint" />
-            <mxPoint x="325" y="177.00000000000023" as="targetPoint" />
+            <mxPoint x="147" y="169" as="sourcePoint" />
+            <mxPoint x="297" y="169.00000000000023" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
