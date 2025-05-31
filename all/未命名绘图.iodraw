@@ -24,7 +24,7 @@
           <mxGeometry x="-315" y="644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-4" value="巡护员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-25" y="644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLYZcGl0A7sJei_hjuTo-5" target="CLYZcGl0A7sJei_hjuTo-4">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,10 @@
           <mxGeometry x="-437" y="634" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-12" value="监测设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-653" y="644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-596" y="644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-319" y="634" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
