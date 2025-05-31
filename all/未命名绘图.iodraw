@@ -156,7 +156,7 @@
         <mxCell id="CLYZcGl0A7sJei_hjuTo-46" value="展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-444" y="818" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-50" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-50" value="比较" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-706" y="492" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
