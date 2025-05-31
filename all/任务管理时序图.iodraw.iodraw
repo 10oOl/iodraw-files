@@ -220,9 +220,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HER8kDWrDFTNuOBMra1-47" value="创建任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-46">
-          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
-            <mxPoint x="8" y="-2" as="offset" />
+        <mxCell id="7HER8kDWrDFTNuOBMra1-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7HER8kDWrDFTNuOBMra1-46">
+          <mxGeometry x="-0.2766" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
