@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-35" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-29">
           <mxGeometry x="0.434" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint x="-2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CLYZcGl0A7sJei_hjuTo-4" value="巡护员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CLYZcGl0A7sJei_hjuTo-92" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-49">
+        <mxCell id="CLYZcGl0A7sJei_hjuTo-92" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CLYZcGl0A7sJei_hjuTo-49">
           <mxGeometry x="-0.835" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
